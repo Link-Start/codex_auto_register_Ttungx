@@ -7,15 +7,7 @@
 这是一款基于 DuckMail API 的自动化 OAuth 授权测试工具，旨在研究 AI 接口的高并发调用与身份验证机制。本工具由 [HNU 区块链协会](https://github.com/HNUDAO) 维护开发。
 
 For updates, bug reports, and more Web3/AI tools, join our official developer community: [Telegram 社群](https://t.me/+inDiCrZ6ZeZiODQx)
-<div style="text-align: left;">
-  <a href="https://www.rapidproxy.io/?ref=Ttungx" target="_blank">
-    <img src="assets/rapidproxy.jpg" alt="RapidProxy" width="60%">
-  </a>
-</div>
 
-> [RapidProxy](https://www.rapidproxy.io/?ref=Ttungx) — 高稳定住宅代理，动态轮换与静态独享IP，真实住宅IP资源，有效降低风控
-
----
 
 ## 赞助 HNU 区块链协会
 

@@ -7,15 +7,7 @@ English | [简体中文](README.md)
 This is an automated OAuth authorization testing tool built on the DuckMail API. It is designed for researching high-concurrency AI API calls and identity verification mechanisms. This tool is maintained and developed by the [HNU Blockchain Association](https://github.com/HNUDAO).
 
 For updates, bug reports, and more Web3/AI tools, join our official developer community: [Telegram Community](https://t.me/+inDiCrZ6ZeZiODQx)
-<div style="text-align: left;">
-  <a href="https://www.rapidproxy.io/?ref=Ttungx" target="_blank">
-    <img src="assets/rapidproxy.jpg" alt="RapidProxy" width="60%">
-  </a>
-</div>
 
-> [RapidProxy](https://www.rapidproxy.io/?ref=Ttungx) - Highly stable residential proxies with dynamic rotation and static dedicated IPs. Real residential IP resources help reduce risk-control issues.
-
----
 
 ## Sponsor HNU Blockchain Association
 
